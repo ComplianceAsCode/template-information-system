@@ -17,7 +17,7 @@ dependencies:
       revision: master
   systems:
     - url: https://github.com/ComplianceCenter/template-system-process-controls
-      revision: master
+      revision: opencontrol
     - url: https://github.com/ComplianceCenter/redhat-openstack-platform-13
       revision: opencontrol
     - url: https://github.com/ComplianceCenter/redhat-openshift-v3
