@@ -16,6 +16,8 @@ dependencies:
     - url: https://github.com/opencontrol/FedRAMP-Certifications
       revision: master
   systems:
+    - url: https://github.com/ComplianceCenter/template-system-process-controls
+      revision: master
     - url: https://github.com/ComplianceCenter/redhat-openstack-platform-13
       revision: opencontrol
     - url: https://github.com/ComplianceCenter/redhat-openshift-v3
